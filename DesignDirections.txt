@@ -1,0 +1,7 @@
+Design
+This aplication is a part of a possivel web solution. To make this possivel with using a external libraries, a choose to make a motor aplication named core, this motor can return the cheapest hotel, to hole solution.
+To make possibel see the motor working a make test class woking with a file and a Console Api, to make possivle inpement this solution to many languages and plataform, the same reason that a choose to make this api independt of iis.
+
+Directions
+To this solution work we have to put some file with the name orders.txt in the root of the apliation. And open the solution with a visual studio 2012 or up version of visual studio. and run the aplition, acess the url http://localhost:9000/api/hotels/cheapest/ and get the response basead in the ifnormation of the file.  If you prefer you can also run the test to seen the return. 
+ 

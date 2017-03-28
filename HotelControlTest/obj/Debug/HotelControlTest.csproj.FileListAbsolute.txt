@@ -1,0 +1,5 @@
+C:\Users\luiz.santos\Dropbox\HotelControl\HotelControlTest\bin\Debug\HotelControlTest.dll
+C:\Users\luiz.santos\Dropbox\HotelControl\HotelControlTest\bin\Debug\HotelControlTest.pdb
+C:\Users\luiz.santos\Dropbox\HotelControl\HotelControlTest\obj\Debug\HotelControlTest.csprojResolveAssemblyReference.cache
+C:\Users\luiz.santos\Dropbox\HotelControl\HotelControlTest\obj\Debug\HotelControlTest.dll
+C:\Users\luiz.santos\Dropbox\HotelControl\HotelControlTest\obj\Debug\HotelControlTest.pdb

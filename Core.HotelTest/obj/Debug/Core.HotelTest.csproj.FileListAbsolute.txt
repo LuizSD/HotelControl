@@ -1,0 +1,7 @@
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\bin\Debug\Core.HotelTest.dll
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\bin\Debug\Core.HotelTest.pdb
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\bin\Debug\Core.Hotel.dll
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\bin\Debug\Core.Hotel.pdb
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\obj\Debug\Core.HotelTest.csprojResolveAssemblyReference.cache
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\obj\Debug\Core.HotelTest.dll
+C:\Users\luiz.santos\Dropbox\HotelControl\Core.HotelTest\obj\Debug\Core.HotelTest.pdb
